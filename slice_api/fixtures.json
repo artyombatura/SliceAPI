@@ -22,24 +22,6 @@
 },
 {
     "model": "api.user",
-    "pk": 1,
-    "fields": {
-        "password": "pbkdf2_sha256$320000$psqZYBh7yJpLdagIgEjIg9$VOcflhIJq/HPQ0lZqRw1AOAISyDrgRMCQJe67+YVr6M=",
-        "last_login": "2022-02-20T20:26:37.021Z",
-        "photo": null,
-        "username": "a",
-        "first_name": "",
-        "last_name": "",
-        "email": "",
-        "is_staff": true,
-        "is_superuser": true,
-        "is_active": true,
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "api.user",
     "pk": 2,
     "fields": {
         "password": "pbkdf2_sha256$320000$gElbXc69duAGTOVqCl6kxZ$1u3w3tkPD/1zQ5RIqR93M9iEyZ/cDXd+0sFEiBmulZk=",
